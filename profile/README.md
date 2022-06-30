@@ -3,7 +3,7 @@
 
 想了解关于我的更多信息或项目请访问我的主页 [@CarmJos](https://github.com/CarmJos) 。
 
-<img align="right" height=30% width=30% src="https://github.com/CarmJos/CarmJos/blob/main/img/me/logo.jpg" />
+<img align="right" height=30% width=30% src="https://github.com/CarmJos/CarmJos/blob/main/img/me/logo.png" />
 
 ### :muscle: 我可以胜任
 
