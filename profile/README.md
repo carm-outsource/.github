@@ -1,8 +1,9 @@
 ## 📚 Carm's outsource projects
-<img align="right" height=45% width=45% src="https://raw.githubusercontent.com/CarmJos/CarmJos/main/img/minecraft/3d-render/KarmunJ%20RD.png" />
 这里是卡姆的外包项目组，用于存储、管理与自动化构建外包项目代码。目前已存有百余个项目库，其中不乏各大公司、工作室的重要项目。
 
 想了解关于我的更多信息或项目请访问我的主页 [@CarmJos](https://github.com/CarmJos) 。
+
+<img align="right" height=30% width=30% src="https://github.com/CarmJos/CarmJos/blob/main/img/me/pixel-style.jpg" />
 
 ### :muscle: 我可以胜任
 
