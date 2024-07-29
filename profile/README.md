@@ -8,15 +8,15 @@
 ### :muscle: 我可以胜任
 
 - ⌨️ **软件开发**
-  - [X] Java/Rust 后端软件开发与接口规划
-  - [X] Oracle/MySQL 数据库结构设计
-  - [X] Bukkit/Bungee 插件开发
+  - [X] Java/Cpp/Rust 后端软件开发与接口架构开发
+  - [X] PostgreSQL/MySQL 数据库结构设计
+  - [X] 单片机嵌入式软件开发
 - 🖥️ **硬件运维**
   - [X] 服务器维护与自动化相关
-  - [X] Linux服务器运维
+  - [X] Linux服务器运维管理
 - 💎 **3D建模与打印**
   - [X] 3D建模实物打印 (FDM/~光固化~)
-  - [ ] 简单实物建模
+  - [X] 工程实物设计与建模
 
 ### :sparkling_heart: 我乐意支持
 
